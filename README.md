@@ -20,19 +20,16 @@ Data was cleaned, standardised and merged across seasons before being used for f
 
 ## Feature Engineering
 
-Rather than relying solely on raw statistics, team performance was represented through several feature groups:
+Features were engineered to capture both recent form and longer-term team strength. The final feature set was grouped into four main areas:
 
-- **Attacking strength** — goals, expected goals and attacking performance
-- **Defensive strength** — goals conceded, expected goals against and defensive performance
-- **Squad strength** — player quality and squad-level performance indicators
-- **Squad depth** — the quality and availability of players beyond the starting XI
-- **Squad continuity** — changes in the squad and potential impact of transfers
-- **Transfer impact** — changes in squad quality resulting from incoming and outgoing players
-- **Tactical consistency** — indicators intended to capture stability in team performance and approach
-- **Manager quality** — historical and contextual indicators of managerial performance
-- **Home advantage** — the additional effect associated with playing at home
+- **Performance & Form:** Goals, goals conceded, xG, xGA, non-penalty xG, non-penalty xGA, non-penalty xG difference, points, PPDA and deep completions. These were calculated over the last 5 matches, last 10 matches, season-to-date and the team's previous 5 matches at the relevant venue.
+- **Attacking & Defensive Strength:** Weighted measures combining recent and season-to-date xG and xGA, giving greater weight to recent performance.
+- **Squad Value:** Team market value, changes in market value, percentage changes and log-transformed market values.
+- **Head-to-Head:** Historical win rates, average goals scored by each team and average goal difference from previous meetings.
 
-Features were engineered from historical information to provide the models with a representation of both **current team strength and contextual match factors**.
+Additional indicators were included to account for promoted teams when generating predictions.
+
+This feature set was used to train separate home-goal and away-goal XGBoost regression models.
 
 ## Modelling Pipeline
 
