@@ -1,0 +1,307 @@
+week,day,date,time,home_team,score,away_team,venue
+1,Fri,2026-08-28,20:30 (19:30),Bayern Munich,,Stuttgart,Allianz Arena
+1,Sat,2026-08-29,15:30 (14:30),RB Leipzig,,Borussia Monchengladbach,Red Bull Arena
+1,Sat,2026-08-29,15:30 (14:30),Elversberg,,Bayer Leverkusen,Ursapharm-Arena an der Kaiserlinde
+1,Sat,2026-08-29,15:30 (14:30),Mainz,,Paderborn,Mewa Arena
+1,Sat,2026-08-29,15:30 (14:30),Union Berlin,,Eintracht Frankfurt,Stadion An der Alten Försterei
+1,Sat,2026-08-29,15:30 (14:30),Koln,,Hoffenheim,RheinEnergieSTADION
+1,Sat,2026-08-29,18:30 (17:30),Borussia Dortmund,,Hamburger SV,Signal Iduna Park
+1,Sun,2026-08-30,15:30 (14:30),Freiburg,,Werder Bremen,Europa-Park Stadion
+1,Sun,2026-08-30,17:30 (16:30),Augsburg,,Schalke,WWK Arena
+2,Fri,2026-09-04,20:30 (19:30),Stuttgart,,Koln,MHPArena
+2,Sat,2026-09-05,15:30 (14:30),Hoffenheim,,Borussia Dortmund,PreZero Arena
+2,Sat,2026-09-05,15:30 (14:30),Werder Bremen,,RB Leipzig,Weserstadion
+2,Sat,2026-09-05,15:30 (14:30),Bayer Leverkusen,,Union Berlin,BayArena
+2,Sat,2026-09-05,15:30 (14:30),Borussia Monchengladbach,,Elversberg,Stadion im Borussia-Park
+2,Sat,2026-09-05,15:30 (14:30),Paderborn,,Freiburg,Home Deluxe Arena
+2,Sat,2026-09-05,18:30 (17:30),Schalke,,Bayern Munich,Veltins-Arena
+2,Sun,2026-09-06,15:30 (14:30),Hamburger SV,,Mainz,Volksparkstadion
+2,Sun,2026-09-06,17:30 (16:30),Eintracht Frankfurt,,Augsburg,Deutsche Bank Park
+3,Fri,2026-09-11,20:30 (19:30),Union Berlin,,Schalke,Stadion An der Alten Försterei
+3,Sat,2026-09-12,15:30 (14:30),Mainz,,Eintracht Frankfurt,Mewa Arena
+3,Sat,2026-09-12,15:30 (14:30),Freiburg,,Borussia Monchengladbach,Europa-Park Stadion
+3,Sat,2026-09-12,15:30 (14:30),Borussia Dortmund,,Paderborn,Signal Iduna Park
+3,Sat,2026-09-12,15:30 (14:30),Augsburg,,Bayer Leverkusen,WWK Arena
+3,Sat,2026-09-12,15:30 (14:30),Hoffenheim,,Stuttgart,PreZero Arena
+3,Sat,2026-09-12,18:30 (17:30),Koln,,Werder Bremen,RheinEnergieSTADION
+3,Sun,2026-09-13,15:30 (14:30),RB Leipzig,,Hamburger SV,Red Bull Arena
+3,Sun,2026-09-13,17:30 (16:30),Elversberg,,Bayern Munich,Ursapharm-Arena an der Kaiserlinde
+4,Fri,2026-09-18,20:30 (19:30),Bayern Munich,,Union Berlin,Allianz Arena
+4,Sat,2026-09-19,15:30 (14:30),Borussia Monchengladbach,,Mainz,Stadion im Borussia-Park
+4,Sat,2026-09-19,15:30 (14:30),Eintracht Frankfurt,,Freiburg,Deutsche Bank Park
+4,Sat,2026-09-19,15:30 (14:30),Hamburger SV,,Koln,Volksparkstadion
+4,Sat,2026-09-19,15:30 (14:30),Werder Bremen,,Augsburg,Weserstadion
+4,Sat,2026-09-19,18:30 (17:30),Stuttgart,,Borussia Dortmund,MHPArena
+4,Sun,2026-09-20,15:30 (14:30),Bayer Leverkusen,,RB Leipzig,BayArena
+4,Sun,2026-09-20,17:30 (16:30),Schalke,,Elversberg,Veltins-Arena
+4,Sun,2026-09-20,19:30 (18:30),Paderborn,,Hoffenheim,Home Deluxe Arena
+5,Sat,2026-10-10,,Borussia Dortmund,,Werder Bremen,Signal Iduna Park
+5,Sat,2026-10-10,,RB Leipzig,,Eintracht Frankfurt,Red Bull Arena
+5,Sat,2026-10-10,,Augsburg,,Bayern Munich,WWK Arena
+5,Sat,2026-10-10,,Koln,,Borussia Monchengladbach,RheinEnergieSTADION
+5,Sat,2026-10-10,,Hoffenheim,,Hamburger SV,PreZero Arena
+5,Sat,2026-10-10,,Freiburg,,Schalke,Europa-Park Stadion
+5,Sat,2026-10-10,,Mainz,,Bayer Leverkusen,Mewa Arena
+5,Sat,2026-10-10,,Union Berlin,,Elversberg,Stadion An der Alten Försterei
+5,Sat,2026-10-10,,Paderborn,,Stuttgart,Home Deluxe Arena
+6,Sat,2026-10-17,,Bayer Leverkusen,,Freiburg,BayArena
+6,Sat,2026-10-17,,Hamburger SV,,Stuttgart,Volksparkstadion
+6,Sat,2026-10-17,,Borussia Monchengladbach,,Hoffenheim,Stadion im Borussia-Park
+6,Sat,2026-10-17,,Bayern Munich,,RB Leipzig,Allianz Arena
+6,Sat,2026-10-17,,Union Berlin,,Borussia Dortmund,Stadion An der Alten Försterei
+6,Sat,2026-10-17,,Elversberg,,Augsburg,Ursapharm-Arena an der Kaiserlinde
+6,Sat,2026-10-17,,Eintracht Frankfurt,,Koln,Deutsche Bank Park
+6,Sat,2026-10-17,,Schalke,,Mainz,Veltins-Arena
+6,Sat,2026-10-17,,Werder Bremen,,Paderborn,Weserstadion
+7,Sat,2026-10-24,,Borussia Dortmund,,Eintracht Frankfurt,Signal Iduna Park
+7,Sat,2026-10-24,,Hoffenheim,,Bayer Leverkusen,PreZero Arena
+7,Sat,2026-10-24,,RB Leipzig,,Elversberg,Red Bull Arena
+7,Sat,2026-10-24,,Stuttgart,,Borussia Monchengladbach,MHPArena
+7,Sat,2026-10-24,,Mainz,,Werder Bremen,Mewa Arena
+7,Sat,2026-10-24,,Freiburg,,Bayern Munich,Europa-Park Stadion
+7,Sat,2026-10-24,,Augsburg,,Union Berlin,WWK Arena
+7,Sat,2026-10-24,,Paderborn,,Hamburger SV,Home Deluxe Arena
+7,Sat,2026-10-24,,Koln,,Schalke,RheinEnergieSTADION
+8,Sat,2026-10-31,,Borussia Monchengladbach,,Paderborn,Stadion im Borussia-Park
+8,Sat,2026-10-31,,Werder Bremen,,Hoffenheim,Weserstadion
+8,Sat,2026-10-31,,Union Berlin,,Koln,Stadion An der Alten Försterei
+8,Sat,2026-10-31,,Eintracht Frankfurt,,Hamburger SV,Deutsche Bank Park
+8,Sat,2026-10-31,,Bayer Leverkusen,,Stuttgart,BayArena
+8,Sat,2026-10-31,,Bayern Munich,,Borussia Dortmund,Allianz Arena
+8,Sat,2026-10-31,,Schalke,,RB Leipzig,Veltins-Arena
+8,Sat,2026-10-31,,Elversberg,,Mainz,Ursapharm-Arena an der Kaiserlinde
+8,Sat,2026-10-31,,Augsburg,,Freiburg,WWK Arena
+9,Sat,2026-11-07,,Hamburger SV,,Borussia Monchengladbach,Volksparkstadion
+9,Sat,2026-11-07,,Stuttgart,,Werder Bremen,MHPArena
+9,Sat,2026-11-07,,Borussia Dortmund,,Elversberg,Signal Iduna Park
+9,Sat,2026-11-07,,Paderborn,,Eintracht Frankfurt,Home Deluxe Arena
+9,Sat,2026-11-07,,RB Leipzig,,Augsburg,Red Bull Arena
+9,Sat,2026-11-07,,Mainz,,Bayern Munich,Mewa Arena
+9,Sat,2026-11-07,,Koln,,Bayer Leverkusen,RheinEnergieSTADION
+9,Sat,2026-11-07,,Hoffenheim,,Schalke,PreZero Arena
+9,Sat,2026-11-07,,Freiburg,,Union Berlin,Europa-Park Stadion
+10,Sat,2026-11-21,,Elversberg,,Freiburg,Ursapharm-Arena an der Kaiserlinde
+10,Sat,2026-11-21,,Eintracht Frankfurt,,Hoffenheim,Deutsche Bank Park
+10,Sat,2026-11-21,,Bayer Leverkusen,,Paderborn,BayArena
+10,Sat,2026-11-21,,Schalke,,Stuttgart,Veltins-Arena
+10,Sat,2026-11-21,,Bayern Munich,,Koln,Allianz Arena
+10,Sat,2026-11-21,,Augsburg,,Mainz,WWK Arena
+10,Sat,2026-11-21,,Werder Bremen,,Hamburger SV,Weserstadion
+10,Sat,2026-11-21,,Borussia Monchengladbach,,Borussia Dortmund,Stadion im Borussia-Park
+10,Sat,2026-11-21,,Union Berlin,,RB Leipzig,Stadion An der Alten Försterei
+11,Sat,2026-11-28,,Hoffenheim,,Augsburg,PreZero Arena
+11,Sat,2026-11-28,,Stuttgart,,Eintracht Frankfurt,MHPArena
+11,Sat,2026-11-28,,Hamburger SV,,Bayern Munich,Volksparkstadion
+11,Sat,2026-11-28,,Werder Bremen,,Borussia Monchengladbach,Weserstadion
+11,Sat,2026-11-28,,Freiburg,,RB Leipzig,Europa-Park Stadion
+11,Sat,2026-11-28,,Mainz,,Union Berlin,Mewa Arena
+11,Sat,2026-11-28,,Koln,,Elversberg,RheinEnergieSTADION
+11,Sat,2026-11-28,,Borussia Dortmund,,Bayer Leverkusen,Signal Iduna Park
+11,Sat,2026-11-28,,Paderborn,,Schalke,Home Deluxe Arena
+12,Sat,2026-12-05,,Bayer Leverkusen,,Borussia Monchengladbach,BayArena
+12,Sat,2026-12-05,,Augsburg,,Koln,WWK Arena
+12,Sat,2026-12-05,,Elversberg,,Stuttgart,Ursapharm-Arena an der Kaiserlinde
+12,Sat,2026-12-05,,Bayern Munich,,Paderborn,Allianz Arena
+12,Sat,2026-12-05,,Schalke,,Borussia Dortmund,Veltins-Arena
+12,Sat,2026-12-05,,RB Leipzig,,Mainz,Red Bull Arena
+12,Sat,2026-12-05,,Freiburg,,Hoffenheim,Europa-Park Stadion
+12,Sat,2026-12-05,,Eintracht Frankfurt,,Werder Bremen,Deutsche Bank Park
+12,Sat,2026-12-05,,Union Berlin,,Hamburger SV,Stadion An der Alten Försterei
+13,Sat,2026-12-12,,Borussia Dortmund,,Augsburg,Signal Iduna Park
+13,Sat,2026-12-12,,Hamburger SV,,Schalke,Volksparkstadion
+13,Sat,2026-12-12,,Mainz,,Freiburg,Mewa Arena
+13,Sat,2026-12-12,,Koln,,RB Leipzig,RheinEnergieSTADION
+13,Sat,2026-12-12,,Werder Bremen,,Bayer Leverkusen,Weserstadion
+13,Sat,2026-12-12,,Paderborn,,Elversberg,Home Deluxe Arena
+13,Sat,2026-12-12,,Stuttgart,,Union Berlin,MHPArena
+13,Sat,2026-12-12,,Borussia Monchengladbach,,Eintracht Frankfurt,Stadion im Borussia-Park
+13,Sat,2026-12-12,,Hoffenheim,,Bayern Munich,PreZero Arena
+14,Sat,2026-12-19,,RB Leipzig,,Borussia Dortmund,Red Bull Arena
+14,Sat,2026-12-19,,Augsburg,,Paderborn,WWK Arena
+14,Sat,2026-12-19,,Bayer Leverkusen,,Eintracht Frankfurt,BayArena
+14,Sat,2026-12-19,,Freiburg,,Stuttgart,Europa-Park Stadion
+14,Sat,2026-12-19,,Bayern Munich,,Werder Bremen,Allianz Arena
+14,Sat,2026-12-19,,Union Berlin,,Hoffenheim,Stadion An der Alten Försterei
+14,Sat,2026-12-19,,Schalke,,Borussia Monchengladbach,Veltins-Arena
+14,Sat,2026-12-19,,Mainz,,Koln,Mewa Arena
+14,Sat,2026-12-19,,Elversberg,,Hamburger SV,Ursapharm-Arena an der Kaiserlinde
+15,Sat,2027-01-09,,Werder Bremen,,Union Berlin,Weserstadion
+15,Sat,2027-01-09,,Hamburger SV,,Bayer Leverkusen,Volksparkstadion
+15,Sat,2027-01-09,,Hoffenheim,,Elversberg,PreZero Arena
+15,Sat,2027-01-09,,Koln,,Freiburg,RheinEnergieSTADION
+15,Sat,2027-01-09,,Paderborn,,RB Leipzig,Home Deluxe Arena
+15,Sat,2027-01-09,,Borussia Dortmund,,Mainz,Signal Iduna Park
+15,Sat,2027-01-09,,Stuttgart,,Augsburg,MHPArena
+15,Sat,2027-01-09,,Borussia Monchengladbach,,Bayern Munich,Stadion im Borussia-Park
+15,Sat,2027-01-09,,Eintracht Frankfurt,,Schalke,Deutsche Bank Park
+16,Wed,2027-01-13,,Bayern Munich,,Bayer Leverkusen,Allianz Arena
+16,Wed,2027-01-13,,Freiburg,,Hamburger SV,Europa-Park Stadion
+16,Wed,2027-01-13,,Mainz,,Hoffenheim,Mewa Arena
+16,Wed,2027-01-13,,Schalke,,Werder Bremen,Veltins-Arena
+16,Wed,2027-01-13,,Koln,,Borussia Dortmund,RheinEnergieSTADION
+16,Wed,2027-01-13,,Augsburg,,Borussia Monchengladbach,WWK Arena
+16,Wed,2027-01-13,,Union Berlin,,Paderborn,Stadion An der Alten Försterei
+16,Wed,2027-01-13,,RB Leipzig,,Stuttgart,Red Bull Arena
+16,Wed,2027-01-13,,Elversberg,,Eintracht Frankfurt,Ursapharm-Arena an der Kaiserlinde
+17,Sat,2027-01-16,,Borussia Dortmund,,Freiburg,Signal Iduna Park
+17,Sat,2027-01-16,,Paderborn,,Koln,Home Deluxe Arena
+17,Sat,2027-01-16,,Eintracht Frankfurt,,Bayern Munich,Deutsche Bank Park
+17,Sat,2027-01-16,,Hoffenheim,,RB Leipzig,PreZero Arena
+17,Sat,2027-01-16,,Hamburger SV,,Augsburg,Volksparkstadion
+17,Sat,2027-01-16,,Bayer Leverkusen,,Schalke,BayArena
+17,Sat,2027-01-16,,Werder Bremen,,Elversberg,Weserstadion
+17,Sat,2027-01-16,,Stuttgart,,Mainz,MHPArena
+17,Sat,2027-01-16,,Borussia Monchengladbach,,Union Berlin,Stadion im Borussia-Park
+18,Sat,2027-01-23,,Hamburger SV,,Borussia Dortmund,Volksparkstadion
+18,Sat,2027-01-23,,Hoffenheim,,Koln,PreZero Arena
+18,Sat,2027-01-23,,Paderborn,,Mainz,Home Deluxe Arena
+18,Sat,2027-01-23,,Schalke,,Augsburg,Veltins-Arena
+18,Sat,2027-01-23,,Stuttgart,,Bayern Munich,MHPArena
+18,Sat,2027-01-23,,Bayer Leverkusen,,Elversberg,BayArena
+18,Sat,2027-01-23,,Borussia Monchengladbach,,RB Leipzig,Stadion im Borussia-Park
+18,Sat,2027-01-23,,Werder Bremen,,Freiburg,Weserstadion
+18,Sat,2027-01-23,,Eintracht Frankfurt,,Union Berlin,Deutsche Bank Park
+19,Sat,2027-01-30,,Koln,,Stuttgart,RheinEnergieSTADION
+19,Sat,2027-01-30,,Bayern Munich,,Schalke,Allianz Arena
+19,Sat,2027-01-30,,Freiburg,,Paderborn,Europa-Park Stadion
+19,Sat,2027-01-30,,Union Berlin,,Bayer Leverkusen,Stadion An der Alten Försterei
+19,Sat,2027-01-30,,Elversberg,,Borussia Monchengladbach,Ursapharm-Arena an der Kaiserlinde
+19,Sat,2027-01-30,,Augsburg,,Eintracht Frankfurt,WWK Arena
+19,Sat,2027-01-30,,Borussia Dortmund,,Hoffenheim,Signal Iduna Park
+19,Sat,2027-01-30,,RB Leipzig,,Werder Bremen,Red Bull Arena
+19,Sat,2027-01-30,,Mainz,,Hamburger SV,Mewa Arena
+20,Sat,2027-02-06,,Eintracht Frankfurt,,Mainz,Deutsche Bank Park
+20,Sat,2027-02-06,,Stuttgart,,Hoffenheim,MHPArena
+20,Sat,2027-02-06,,Schalke,,Union Berlin,Veltins-Arena
+20,Sat,2027-02-06,,Borussia Monchengladbach,,Freiburg,Stadion im Borussia-Park
+20,Sat,2027-02-06,,Bayer Leverkusen,,Augsburg,BayArena
+20,Sat,2027-02-06,,Bayern Munich,,Elversberg,Allianz Arena
+20,Sat,2027-02-06,,Hamburger SV,,RB Leipzig,Volksparkstadion
+20,Sat,2027-02-06,,Paderborn,,Borussia Dortmund,Home Deluxe Arena
+20,Sat,2027-02-06,,Werder Bremen,,Koln,Weserstadion
+21,Sat,2027-02-13,,Borussia Dortmund,,Stuttgart,Signal Iduna Park
+21,Sat,2027-02-13,,Freiburg,,Eintracht Frankfurt,Europa-Park Stadion
+21,Sat,2027-02-13,,Hoffenheim,,Paderborn,PreZero Arena
+21,Sat,2027-02-13,,Elversberg,,Schalke,Ursapharm-Arena an der Kaiserlinde
+21,Sat,2027-02-13,,Koln,,Hamburger SV,RheinEnergieSTADION
+21,Sat,2027-02-13,,RB Leipzig,,Bayer Leverkusen,Red Bull Arena
+21,Sat,2027-02-13,,Mainz,,Borussia Monchengladbach,Mewa Arena
+21,Sat,2027-02-13,,Augsburg,,Werder Bremen,WWK Arena
+21,Sat,2027-02-13,,Union Berlin,,Bayern Munich,Stadion An der Alten Försterei
+22,Sat,2027-02-20,,Hamburger SV,,Hoffenheim,Volksparkstadion
+22,Sat,2027-02-20,,Borussia Monchengladbach,,Koln,Stadion im Borussia-Park
+22,Sat,2027-02-20,,Elversberg,,Union Berlin,Ursapharm-Arena an der Kaiserlinde
+22,Sat,2027-02-20,,Eintracht Frankfurt,,RB Leipzig,Deutsche Bank Park
+22,Sat,2027-02-20,,Stuttgart,,Paderborn,MHPArena
+22,Sat,2027-02-20,,Bayern Munich,,Augsburg,Allianz Arena
+22,Sat,2027-02-20,,Bayer Leverkusen,,Mainz,BayArena
+22,Sat,2027-02-20,,Werder Bremen,,Borussia Dortmund,Weserstadion
+22,Sat,2027-02-20,,Schalke,,Freiburg,Veltins-Arena
+23,Sat,2027-02-27,,Koln,,Eintracht Frankfurt,RheinEnergieSTADION
+23,Sat,2027-02-27,,Augsburg,,Elversberg,WWK Arena
+23,Sat,2027-02-27,,Mainz,,Schalke,Mewa Arena
+23,Sat,2027-02-27,,Borussia Dortmund,,Union Berlin,Signal Iduna Park
+23,Sat,2027-02-27,,Hoffenheim,,Borussia Monchengladbach,PreZero Arena
+23,Sat,2027-02-27,,Freiburg,,Bayer Leverkusen,Europa-Park Stadion
+23,Sat,2027-02-27,,Stuttgart,,Hamburger SV,MHPArena
+23,Sat,2027-02-27,,Paderborn,,Werder Bremen,Home Deluxe Arena
+23,Sat,2027-02-27,,RB Leipzig,,Bayern Munich,Red Bull Arena
+24,Wed,2027-03-03,,Eintracht Frankfurt,,Borussia Dortmund,Deutsche Bank Park
+24,Wed,2027-03-03,,Borussia Monchengladbach,,Stuttgart,Stadion im Borussia-Park
+24,Wed,2027-03-03,,Werder Bremen,,Mainz,Weserstadion
+24,Wed,2027-03-03,,Schalke,,Koln,Veltins-Arena
+24,Wed,2027-03-03,,Union Berlin,,Augsburg,Stadion An der Alten Försterei
+24,Wed,2027-03-03,,Elversberg,,RB Leipzig,Ursapharm-Arena an der Kaiserlinde
+24,Wed,2027-03-03,,Hamburger SV,,Paderborn,Volksparkstadion
+24,Wed,2027-03-03,,Bayer Leverkusen,,Hoffenheim,BayArena
+24,Wed,2027-03-03,,Bayern Munich,,Freiburg,Allianz Arena
+25,Sat,2027-03-06,,Mainz,,Elversberg,Mewa Arena
+25,Sat,2027-03-06,,Borussia Dortmund,,Bayern Munich,Signal Iduna Park
+25,Sat,2027-03-06,,Paderborn,,Borussia Monchengladbach,Home Deluxe Arena
+25,Sat,2027-03-06,,Hoffenheim,,Werder Bremen,PreZero Arena
+25,Sat,2027-03-06,,Koln,,Union Berlin,RheinEnergieSTADION
+25,Sat,2027-03-06,,Freiburg,,Augsburg,Europa-Park Stadion
+25,Sat,2027-03-06,,RB Leipzig,,Schalke,Red Bull Arena
+25,Sat,2027-03-06,,Stuttgart,,Bayer Leverkusen,MHPArena
+25,Sat,2027-03-06,,Hamburger SV,,Eintracht Frankfurt,Volksparkstadion
+26,Sat,2027-03-13,,Augsburg,,RB Leipzig,WWK Arena
+26,Sat,2027-03-13,,Bayern Munich,,Mainz,Allianz Arena
+26,Sat,2027-03-13,,Bayer Leverkusen,,Koln,BayArena
+26,Sat,2027-03-13,,Schalke,,Hoffenheim,Veltins-Arena
+26,Sat,2027-03-13,,Union Berlin,,Freiburg,Stadion An der Alten Försterei
+26,Sat,2027-03-13,,Borussia Monchengladbach,,Hamburger SV,Stadion im Borussia-Park
+26,Sat,2027-03-13,,Werder Bremen,,Stuttgart,Weserstadion
+26,Sat,2027-03-13,,Eintracht Frankfurt,,Paderborn,Deutsche Bank Park
+26,Sat,2027-03-13,,Elversberg,,Borussia Dortmund,Ursapharm-Arena an der Kaiserlinde
+27,Sat,2027-03-20,,Hoffenheim,,Eintracht Frankfurt,PreZero Arena
+27,Sat,2027-03-20,,RB Leipzig,,Union Berlin,Red Bull Arena
+27,Sat,2027-03-20,,Mainz,,Augsburg,Mewa Arena
+27,Sat,2027-03-20,,Borussia Dortmund,,Borussia Monchengladbach,Signal Iduna Park
+27,Sat,2027-03-20,,Freiburg,,Elversberg,Europa-Park Stadion
+27,Sat,2027-03-20,,Paderborn,,Bayer Leverkusen,Home Deluxe Arena
+27,Sat,2027-03-20,,Stuttgart,,Schalke,MHPArena
+27,Sat,2027-03-20,,Koln,,Bayern Munich,RheinEnergieSTADION
+27,Sat,2027-03-20,,Hamburger SV,,Werder Bremen,Volksparkstadion
+28,Sat,2027-04-03,,Eintracht Frankfurt,,Stuttgart,Deutsche Bank Park
+28,Sat,2027-04-03,,Union Berlin,,Mainz,Stadion An der Alten Försterei
+28,Sat,2027-04-03,,RB Leipzig,,Freiburg,Red Bull Arena
+28,Sat,2027-04-03,,Bayern Munich,,Hamburger SV,Allianz Arena
+28,Sat,2027-04-03,,Borussia Monchengladbach,,Werder Bremen,Stadion im Borussia-Park
+28,Sat,2027-04-03,,Bayer Leverkusen,,Borussia Dortmund,BayArena
+28,Sat,2027-04-03,,Augsburg,,Hoffenheim,WWK Arena
+28,Sat,2027-04-03,,Schalke,,Paderborn,Veltins-Arena
+28,Sat,2027-04-03,,Elversberg,,Koln,Ursapharm-Arena an der Kaiserlinde
+29,Sat,2027-04-10,,Borussia Dortmund,,Schalke,Signal Iduna Park
+29,Sat,2027-04-10,,Hamburger SV,,Union Berlin,Volksparkstadion
+29,Sat,2027-04-10,,Werder Bremen,,Eintracht Frankfurt,Weserstadion
+29,Sat,2027-04-10,,Koln,,Augsburg,RheinEnergieSTADION
+29,Sat,2027-04-10,,Hoffenheim,,Freiburg,PreZero Arena
+29,Sat,2027-04-10,,Paderborn,,Bayern Munich,Home Deluxe Arena
+29,Sat,2027-04-10,,Stuttgart,,Elversberg,MHPArena
+29,Sat,2027-04-10,,Mainz,,RB Leipzig,Mewa Arena
+29,Sat,2027-04-10,,Borussia Monchengladbach,,Bayer Leverkusen,Stadion im Borussia-Park
+30,Sat,2027-04-17,,Schalke,,Hamburger SV,Veltins-Arena
+30,Sat,2027-04-17,,Union Berlin,,Stuttgart,Stadion An der Alten Försterei
+30,Sat,2027-04-17,,RB Leipzig,,Koln,Red Bull Arena
+30,Sat,2027-04-17,,Freiburg,,Mainz,Europa-Park Stadion
+30,Sat,2027-04-17,,Eintracht Frankfurt,,Borussia Monchengladbach,Deutsche Bank Park
+30,Sat,2027-04-17,,Bayern Munich,,Hoffenheim,Allianz Arena
+30,Sat,2027-04-17,,Elversberg,,Paderborn,Ursapharm-Arena an der Kaiserlinde
+30,Sat,2027-04-17,,Bayer Leverkusen,,Werder Bremen,BayArena
+30,Sat,2027-04-17,,Augsburg,,Borussia Dortmund,WWK Arena
+31,Sat,2027-04-24,,Eintracht Frankfurt,,Bayer Leverkusen,Deutsche Bank Park
+31,Sat,2027-04-24,,Koln,,Mainz,RheinEnergieSTADION
+31,Sat,2027-04-24,,Hamburger SV,,Elversberg,Volksparkstadion
+31,Sat,2027-04-24,,Borussia Monchengladbach,,Schalke,Stadion im Borussia-Park
+31,Sat,2027-04-24,,Paderborn,,Augsburg,Home Deluxe Arena
+31,Sat,2027-04-24,,Hoffenheim,,Union Berlin,PreZero Arena
+31,Sat,2027-04-24,,Borussia Dortmund,,RB Leipzig,Signal Iduna Park
+31,Sat,2027-04-24,,Werder Bremen,,Bayern Munich,Weserstadion
+31,Sat,2027-04-24,,Stuttgart,,Freiburg,MHPArena
+32,Sat,2027-05-08,,Bayer Leverkusen,,Hamburger SV,BayArena
+32,Sat,2027-05-08,,Bayern Munich,,Borussia Monchengladbach,Allianz Arena
+32,Sat,2027-05-08,,Schalke,,Eintracht Frankfurt,Veltins-Arena
+32,Sat,2027-05-08,,RB Leipzig,,Paderborn,Red Bull Arena
+32,Sat,2027-05-08,,Augsburg,,Stuttgart,WWK Arena
+32,Sat,2027-05-08,,Freiburg,,Koln,Europa-Park Stadion
+32,Sat,2027-05-08,,Union Berlin,,Werder Bremen,Stadion An der Alten Försterei
+32,Sat,2027-05-08,,Elversberg,,Hoffenheim,Ursapharm-Arena an der Kaiserlinde
+32,Sat,2027-05-08,,Mainz,,Borussia Dortmund,Mewa Arena
+33,Sat,2027-05-15,,Hamburger SV,,Freiburg,Volksparkstadion
+33,Sat,2027-05-15,,Eintracht Frankfurt,,Elversberg,Deutsche Bank Park
+33,Sat,2027-05-15,,Borussia Dortmund,,Koln,Signal Iduna Park
+33,Sat,2027-05-15,,Hoffenheim,,Mainz,PreZero Arena
+33,Sat,2027-05-15,,Stuttgart,,RB Leipzig,MHPArena
+33,Sat,2027-05-15,,Werder Bremen,,Schalke,Weserstadion
+33,Sat,2027-05-15,,Paderborn,,Union Berlin,Home Deluxe Arena
+33,Sat,2027-05-15,,Bayer Leverkusen,,Bayern Munich,BayArena
+33,Sat,2027-05-15,,Borussia Monchengladbach,,Augsburg,Stadion im Borussia-Park
+34,Sat,2027-05-22,15:30 (14:30),Mainz,,Stuttgart,Mewa Arena
+34,Sat,2027-05-22,15:30 (14:30),Bayern Munich,,Eintracht Frankfurt,Allianz Arena
+34,Sat,2027-05-22,15:30 (14:30),Union Berlin,,Borussia Monchengladbach,Stadion An der Alten Försterei
+34,Sat,2027-05-22,15:30 (14:30),Schalke,,Bayer Leverkusen,Veltins-Arena
+34,Sat,2027-05-22,15:30 (14:30),Augsburg,,Hamburger SV,WWK Arena
+34,Sat,2027-05-22,15:30 (14:30),Koln,,Paderborn,RheinEnergieSTADION
+34,Sat,2027-05-22,15:30 (14:30),Freiburg,,Borussia Dortmund,Europa-Park Stadion
+34,Sat,2027-05-22,15:30 (14:30),RB Leipzig,,Hoffenheim,Red Bull Arena
+34,Sat,2027-05-22,15:30 (14:30),Elversberg,,Werder Bremen,Ursapharm-Arena an der Kaiserlinde

@@ -1,0 +1,91 @@
+league,season,team,players_used,age,poss,playing_time_mp,playing_time_starts,playing_time_min,playing_time_90s,performance_gls,performance_ast,performance_g+a,performance_g-pk,performance_pk,performance_pkatt,performance_crdy,performance_crdr,per_90_minutes_gls,per_90_minutes_ast,per_90_minutes_g+a,per_90_minutes_g-pk,per_90_minutes_g+a-pk,url
+GER-Bundesliga,2122,Arminia Bielefeld,26,25.8,40.7,34,374,3060,34,26,18,44,24,2,2,55,2,0.76,0.53,1.29,0.71,1.24,/en/squads/247c4b67/2021-2022/Arminia-Bielefeld-Stats
+GER-Bundesliga,2122,Augsburg,26,26.6,41.5,34,374,3060,34,39,26,65,34,5,5,74,0,1.15,0.76,1.91,1.0,1.76,/en/squads/0cdc4311/2021-2022/Augsburg-Stats
+GER-Bundesliga,2122,Bayern Munich,30,26.8,64.5,34,374,3060,34,92,70,162,87,5,5,36,2,2.71,2.06,4.76,2.56,4.62,/en/squads/054efa67/2021-2022/Bayern-Munich-Stats
+GER-Bundesliga,2122,Bochum,28,28.0,44.7,34,374,3060,34,37,22,59,33,4,6,55,2,1.09,0.65,1.74,0.97,1.62,/en/squads/b42c6323/2021-2022/Bochum-Stats
+GER-Bundesliga,2122,Borussia Dortmund,33,25.9,59.2,34,374,3060,34,81,57,138,70,11,11,63,1,2.38,1.68,4.06,2.06,3.74,/en/squads/add600ae/2021-2022/Dortmund-Stats
+GER-Bundesliga,2122,Eintracht Frankfurt,27,26.2,49.6,34,374,3060,34,43,33,76,42,1,2,61,1,1.26,0.97,2.24,1.24,2.21,/en/squads/f0ac8ee6/2021-2022/Eintracht-Frankfurt-Stats
+GER-Bundesliga,2122,Freiburg,26,26.5,49.0,34,374,3060,34,55,37,92,50,5,6,34,0,1.62,1.09,2.71,1.47,2.56,/en/squads/a486e511/2021-2022/Freiburg-Stats
+GER-Bundesliga,2122,Borussia Monchengladbach,26,26.0,54.0,34,374,3060,34,54,38,92,49,5,7,67,1,1.59,1.12,2.71,1.44,2.56,/en/squads/32f3ee20/2021-2022/Monchengladbach-Stats
+GER-Bundesliga,2122,Greuther Furth,29,25.9,43.6,34,374,3060,34,26,15,41,21,5,5,61,0,0.76,0.44,1.21,0.62,1.06,/en/squads/12192a4c/2021-2022/Greuther-Furth-Stats
+GER-Bundesliga,2122,Hertha Berlin,36,26.7,43.7,34,374,3060,34,35,23,58,32,3,3,62,2,1.03,0.68,1.71,0.94,1.62,/en/squads/2818f8bc/2021-2022/Hertha-BSC-Stats
+GER-Bundesliga,2122,Hoffenheim,32,26.1,53.2,34,374,3060,34,55,42,97,55,0,0,75,0,1.62,1.24,2.85,1.62,2.85,/en/squads/033ea6b8/2021-2022/Hoffenheim-Stats
+GER-Bundesliga,2122,Koln,26,27.0,54.8,34,374,3060,34,52,40,92,51,1,1,68,1,1.53,1.18,2.71,1.5,2.68,/en/squads/bc357bf7/2021-2022/Koln-Stats
+GER-Bundesliga,2122,Bayer Leverkusen,29,24.4,53.7,34,374,3060,34,76,58,134,74,2,6,66,2,2.24,1.71,3.94,2.18,3.88,/en/squads/c7a9f859/2021-2022/Leverkusen-Stats
+GER-Bundesliga,2122,Mainz,28,26.2,46.5,34,374,3060,34,49,36,85,45,4,4,62,4,1.44,1.06,2.5,1.32,2.38,/en/squads/a224b06a/2021-2022/Mainz-05-Stats
+GER-Bundesliga,2122,RB Leipzig,29,25.3,56.1,34,374,3060,34,72,53,125,64,8,9,49,0,2.12,1.56,3.68,1.88,3.44,/en/squads/acbb6a5b/2021-2022/RB-Leipzig-Stats
+GER-Bundesliga,2122,Stuttgart,34,24.0,50.7,34,374,3060,34,40,31,71,39,1,3,64,2,1.18,0.91,2.09,1.15,2.06,/en/squads/598bc722/2021-2022/Stuttgart-Stats
+GER-Bundesliga,2122,Union Berlin,28,28.3,43.7,34,374,3060,34,50,33,83,45,5,5,62,1,1.47,0.97,2.44,1.32,2.29,/en/squads/7a41008f/2021-2022/Union-Berlin-Stats
+GER-Bundesliga,2122,Wolfsburg,30,26.0,50.5,34,374,3060,34,42,25,67,39,3,4,61,3,1.24,0.74,1.97,1.15,1.88,/en/squads/4eaa11d7/2021-2022/Wolfsburg-Stats
+GER-Bundesliga,2223,Augsburg,34,25.9,41.7,34,374,3060,34,41,29,70,37,4,5,96,5,1.21,0.85,2.06,1.09,1.94,/en/squads/0cdc4311/2022-2023/Augsburg-Stats
+GER-Bundesliga,2223,Bayern Munich,28,26.6,64.2,34,374,3060,34,90,67,157,87,3,5,49,3,2.65,1.97,4.62,2.56,4.53,/en/squads/054efa67/2022-2023/Bayern-Munich-Stats
+GER-Bundesliga,2223,Bochum,26,29.4,46.1,34,374,3060,34,37,28,65,34,3,3,64,1,1.09,0.82,1.91,1.0,1.82,/en/squads/b42c6323/2022-2023/Bochum-Stats
+GER-Bundesliga,2223,Borussia Dortmund,30,25.8,58.2,34,374,3060,34,81,61,142,77,4,6,66,0,2.38,1.79,4.18,2.26,4.06,/en/squads/add600ae/2022-2023/Dortmund-Stats
+GER-Bundesliga,2223,Eintracht Frankfurt,28,26.4,52.9,34,374,3060,34,56,33,89,50,6,6,71,1,1.65,0.97,2.62,1.47,2.44,/en/squads/f0ac8ee6/2022-2023/Eintracht-Frankfurt-Stats
+GER-Bundesliga,2223,Freiburg,27,27.4,48.1,34,374,3060,34,51,34,85,44,7,8,62,2,1.5,1.0,2.5,1.29,2.29,/en/squads/a486e511/2022-2023/Freiburg-Stats
+GER-Bundesliga,2223,Borussia Monchengladbach,27,26.8,53.7,34,374,3060,34,52,39,91,48,4,6,62,3,1.53,1.15,2.68,1.41,2.56,/en/squads/32f3ee20/2022-2023/Monchengladbach-Stats
+GER-Bundesliga,2223,Hertha Berlin,32,26.0,42.0,34,374,3060,34,42,23,65,35,7,7,82,1,1.24,0.68,1.91,1.03,1.71,/en/squads/2818f8bc/2022-2023/Hertha-BSC-Stats
+GER-Bundesliga,2223,Hoffenheim,31,26.8,48.3,34,374,3060,34,46,30,76,39,7,9,80,5,1.35,0.88,2.24,1.15,2.03,/en/squads/033ea6b8/2022-2023/Hoffenheim-Stats
+GER-Bundesliga,2223,Koln,27,26.0,49.9,34,374,3060,34,46,31,77,42,4,4,75,3,1.35,0.91,2.26,1.24,2.15,/en/squads/bc357bf7/2022-2023/Koln-Stats
+GER-Bundesliga,2223,Bayer Leverkusen,27,24.7,52.0,34,374,3060,34,57,44,101,52,5,7,75,7,1.68,1.29,2.97,1.53,2.82,/en/squads/c7a9f859/2022-2023/Leverkusen-Stats
+GER-Bundesliga,2223,Mainz,27,27.0,44.8,34,374,3060,34,54,35,89,50,4,6,69,1,1.59,1.03,2.62,1.47,2.5,/en/squads/a224b06a/2022-2023/Mainz-05-Stats
+GER-Bundesliga,2223,RB Leipzig,25,26.3,58.1,34,374,3060,34,64,39,103,58,6,7,69,2,1.88,1.15,3.03,1.71,2.85,/en/squads/acbb6a5b/2022-2023/RB-Leipzig-Stats
+GER-Bundesliga,2223,Schalke,35,27.5,46.0,34,374,3060,34,32,24,56,28,4,5,68,1,0.94,0.71,1.65,0.82,1.53,/en/squads/c539e393/2022-2023/Schalke-04-Stats
+GER-Bundesliga,2223,Stuttgart,30,24.7,50.2,34,374,3060,34,45,34,79,40,5,5,72,5,1.32,1.0,2.32,1.18,2.18,/en/squads/598bc722/2022-2023/Stuttgart-Stats
+GER-Bundesliga,2223,Union Berlin,28,27.9,43.8,34,374,3060,34,49,38,87,46,3,7,65,2,1.44,1.12,2.56,1.35,2.47,/en/squads/7a41008f/2022-2023/Union-Berlin-Stats
+GER-Bundesliga,2223,Werder Bremen,25,27.4,49.3,34,374,3060,34,50,37,87,45,5,6,76,1,1.47,1.09,2.56,1.32,2.41,/en/squads/62add3bf/2022-2023/Werder-Bremen-Stats
+GER-Bundesliga,2223,Wolfsburg,28,24.8,50.6,34,374,3060,34,55,44,99,51,4,7,63,0,1.62,1.29,2.91,1.5,2.79,/en/squads/4eaa11d7/2022-2023/Wolfsburg-Stats
+GER-Bundesliga,2324,Augsburg,29,26.0,43.9,34,374,3060,34,49,35,84,44,5,7,71,3,1.44,1.03,2.47,1.29,2.32,/en/squads/0cdc4311/2023-2024/Augsburg-Stats
+GER-Bundesliga,2324,Bayern Munich,30,27.4,61.3,34,374,3060,34,93,71,164,88,5,5,47,2,2.74,2.09,4.82,2.59,4.68,/en/squads/054efa67/2023-2024/Bayern-Munich-Stats
+GER-Bundesliga,2324,Bochum,25,29.1,46.6,34,374,3060,34,41,30,71,37,4,4,97,2,1.21,0.88,2.09,1.09,1.97,/en/squads/b42c6323/2023-2024/Bochum-Stats
+GER-Bundesliga,2324,Darmstadt,32,27.1,45.7,34,374,3060,34,28,21,49,25,3,3,83,4,0.82,0.62,1.44,0.74,1.35,/en/squads/6a6967fc/2023-2024/Darmstadt-98-Stats
+GER-Bundesliga,2324,Borussia Dortmund,32,26.8,57.8,34,374,3060,34,68,49,117,62,6,6,59,4,2.0,1.44,3.44,1.82,3.26,/en/squads/add600ae/2023-2024/Dortmund-Stats
+GER-Bundesliga,2324,Eintracht Frankfurt,34,25.3,52.1,34,374,3060,34,48,36,84,46,2,3,70,5,1.41,1.06,2.47,1.35,2.41,/en/squads/f0ac8ee6/2023-2024/Eintracht-Frankfurt-Stats
+GER-Bundesliga,2324,Freiburg,25,27.0,46.6,34,374,3060,34,43,32,75,36,7,9,64,4,1.26,0.94,2.21,1.06,2.0,/en/squads/a486e511/2023-2024/Freiburg-Stats
+GER-Bundesliga,2324,Borussia Monchengladbach,27,25.4,46.8,34,374,3060,34,55,43,98,50,5,6,66,2,1.62,1.26,2.88,1.47,2.74,/en/squads/32f3ee20/2023-2024/Monchengladbach-Stats
+GER-Bundesliga,2324,Heidenheim,22,26.7,42.5,34,374,3060,34,46,34,80,44,2,3,54,1,1.35,1.0,2.35,1.29,2.29,/en/squads/18d9d2a7/2023-2024/Heidenheim-Stats
+GER-Bundesliga,2324,Hoffenheim,30,27.7,49.5,34,374,3060,34,65,47,112,59,6,6,86,5,1.91,1.38,3.29,1.74,3.12,/en/squads/033ea6b8/2023-2024/Hoffenheim-Stats
+GER-Bundesliga,2324,Koln,26,25.4,46.5,34,374,3060,34,28,17,45,23,5,6,71,4,0.82,0.5,1.32,0.68,1.18,/en/squads/bc357bf7/2023-2024/Koln-Stats
+GER-Bundesliga,2324,Bayer Leverkusen,24,26.2,61.8,34,374,3060,34,87,71,158,79,8,8,59,0,2.56,2.09,4.65,2.32,4.41,/en/squads/c7a9f859/2023-2024/Leverkusen-Stats
+GER-Bundesliga,2324,Mainz,30,26.7,46.1,34,374,3060,34,38,31,69,37,1,5,99,3,1.12,0.91,2.03,1.09,2.0,/en/squads/a224b06a/2023-2024/Mainz-05-Stats
+GER-Bundesliga,2324,RB Leipzig,26,25.6,55.3,34,374,3060,34,74,53,127,70,4,7,61,1,2.18,1.56,3.74,2.06,3.62,/en/squads/acbb6a5b/2023-2024/RB-Leipzig-Stats
+GER-Bundesliga,2324,Stuttgart,27,25.0,59.9,34,374,3060,34,78,60,138,73,5,8,56,1,2.29,1.76,4.06,2.15,3.91,/en/squads/598bc722/2023-2024/Stuttgart-Stats
+GER-Bundesliga,2324,Union Berlin,30,28.1,42.9,34,374,3060,34,33,23,56,30,3,6,67,7,0.97,0.68,1.65,0.88,1.56,/en/squads/7a41008f/2023-2024/Union-Berlin-Stats
+GER-Bundesliga,2324,Werder Bremen,30,27.0,46.8,34,374,3060,34,45,33,78,40,5,6,73,2,1.32,0.97,2.29,1.18,2.15,/en/squads/62add3bf/2023-2024/Werder-Bremen-Stats
+GER-Bundesliga,2324,Wolfsburg,28,25.6,48.0,34,374,3060,34,41,27,68,39,2,3,86,5,1.21,0.79,2.0,1.15,1.94,/en/squads/4eaa11d7/2023-2024/Wolfsburg-Stats
+GER-Bundesliga,2425,Augsburg,29,26.8,44.3,34,374,3060,34,35,26,61,34,1,2,78,5,1.03,0.76,1.79,1.0,1.76,/en/squads/0cdc4311/2024-2025/Augsburg-Stats
+GER-Bundesliga,2425,Bayern Munich,29,27.7,67.9,34,374,3060,34,96,66,162,87,9,10,48,1,2.82,1.94,4.76,2.56,4.5,/en/squads/054efa67/2024-2025/Bayern-Munich-Stats
+GER-Bundesliga,2425,Bochum,27,28.0,45.5,34,374,3060,34,32,23,55,31,1,3,71,2,0.94,0.68,1.62,0.91,1.59,/en/squads/b42c6323/2024-2025/Bochum-Stats
+GER-Bundesliga,2425,Borussia Dortmund,28,26.6,58.9,34,374,3060,34,69,56,125,64,5,6,71,6,2.03,1.65,3.68,1.88,3.53,/en/squads/add600ae/2024-2025/Dortmund-Stats
+GER-Bundesliga,2425,Eintracht Frankfurt,26,24.9,49.7,34,374,3060,34,68,47,115,65,3,5,55,1,2.0,1.38,3.38,1.91,3.29,/en/squads/f0ac8ee6/2024-2025/Eintracht-Frankfurt-Stats
+GER-Bundesliga,2425,Freiburg,26,27.1,48.7,34,374,3060,34,46,35,81,46,0,4,54,2,1.35,1.03,2.38,1.35,2.38,/en/squads/a486e511/2024-2025/Freiburg-Stats
+GER-Bundesliga,2425,Borussia Monchengladbach,26,26.5,49.6,34,374,3060,34,53,39,92,49,4,5,53,3,1.56,1.15,2.71,1.44,2.59,/en/squads/32f3ee20/2024-2025/Monchengladbach-Stats
+GER-Bundesliga,2425,Heidenheim,27,26.8,43.5,34,374,3060,34,37,26,63,32,5,5,66,1,1.09,0.76,1.85,0.94,1.71,/en/squads/18d9d2a7/2024-2025/Heidenheim-Stats
+GER-Bundesliga,2425,Hoffenheim,35,26.4,48.7,34,374,3060,34,46,30,76,43,3,3,66,2,1.35,0.88,2.24,1.26,2.15,/en/squads/033ea6b8/2024-2025/Hoffenheim-Stats
+GER-Bundesliga,2425,Holstein Kiel,27,25.6,43.6,34,374,3060,34,49,29,78,45,4,5,77,4,1.44,0.85,2.29,1.32,2.18,/en/squads/2ac661d9/2024-2025/Holstein-Kiel-Stats
+GER-Bundesliga,2425,Bayer Leverkusen,23,27.0,59.2,34,374,3060,34,70,53,123,67,3,6,62,1,2.06,1.56,3.62,1.97,3.53,/en/squads/c7a9f859/2024-2025/Leverkusen-Stats
+GER-Bundesliga,2425,Mainz,25,27.4,50.4,34,374,3060,34,53,37,90,49,4,4,71,5,1.56,1.09,2.65,1.44,2.53,/en/squads/a224b06a/2024-2025/Mainz-05-Stats
+GER-Bundesliga,2425,RB Leipzig,29,25.3,52.2,34,374,3060,34,51,36,87,48,3,4,68,5,1.5,1.06,2.56,1.41,2.47,/en/squads/acbb6a5b/2024-2025/RB-Leipzig-Stats
+GER-Bundesliga,2425,Saint Pauli,28,26.9,44.2,34,374,3060,34,26,22,48,25,1,2,53,4,0.76,0.65,1.41,0.74,1.38,/en/squads/54864664/2024-2025/St-Pauli-Stats
+GER-Bundesliga,2425,Stuttgart,29,24.9,57.2,34,374,3060,34,61,45,106,59,2,6,72,5,1.79,1.32,3.12,1.74,3.06,/en/squads/598bc722/2024-2025/Stuttgart-Stats
+GER-Bundesliga,2425,Union Berlin,28,27.2,40.0,34,374,3060,34,36,25,61,33,3,3,72,1,1.06,0.74,1.79,0.97,1.71,/en/squads/7a41008f/2024-2025/Union-Berlin-Stats
+GER-Bundesliga,2425,Werder Bremen,23,27.5,50.0,34,374,3060,34,53,38,91,50,3,5,75,4,1.56,1.12,2.68,1.47,2.59,/en/squads/62add3bf/2024-2025/Werder-Bremen-Stats
+GER-Bundesliga,2425,Wolfsburg,27,25.2,46.1,34,374,3060,34,53,38,91,49,4,5,75,3,1.56,1.12,2.68,1.44,2.56,/en/squads/4eaa11d7/2024-2025/Wolfsburg-Stats
+GER-Bundesliga,2526,Augsburg,29,25.9,44.0,34,374,3060,34,45,27,72,41,4,6,82,1,1.32,0.79,2.12,1.21,2.0,/en/squads/0cdc4311/Augsburg-Stats
+GER-Bundesliga,2526,Bayern Munich,32,27.4,67.5,34,374,3060,34,119,91,210,108,11,12,58,2,3.5,2.68,6.18,3.18,5.85,/en/squads/054efa67/Bayern-Munich-Stats
+GER-Bundesliga,2526,Borussia Dortmund,27,26.2,53.3,34,374,3060,34,69,51,120,63,6,9,63,2,2.03,1.5,3.53,1.85,3.35,/en/squads/add600ae/Dortmund-Stats
+GER-Bundesliga,2526,Eintracht Frankfurt,29,24.8,55.0,34,374,3060,34,61,42,103,55,6,6,62,4,1.79,1.24,3.03,1.62,2.85,/en/squads/f0ac8ee6/Eintracht-Frankfurt-Stats
+GER-Bundesliga,2526,Freiburg,26,26.7,48.2,34,374,3060,34,49,29,78,44,5,6,51,3,1.44,0.85,2.29,1.29,2.15,/en/squads/a486e511/2025-2026/Freiburg-Stats
+GER-Bundesliga,2526,Borussia Monchengladbach,28,26.0,46.7,34,374,3060,34,40,29,69,36,4,7,60,3,1.18,0.85,2.03,1.06,1.91,/en/squads/32f3ee20/Monchengladbach-Stats
+GER-Bundesliga,2526,Hamburger SV,32,25.8,45.4,34,374,3060,34,40,30,70,36,4,6,78,8,1.18,0.88,2.06,1.06,1.94,/en/squads/26790c6a/Hamburger-SV-Stats
+GER-Bundesliga,2526,Heidenheim,30,26.6,42.4,34,374,3060,34,41,28,69,39,2,2,48,1,1.21,0.82,2.03,1.15,1.97,/en/squads/18d9d2a7/2025-2026/Heidenheim-Stats
+GER-Bundesliga,2526,Hoffenheim,26,26.7,55.3,34,374,3060,34,61,45,106,55,6,6,73,3,1.79,1.32,3.12,1.62,2.94,/en/squads/033ea6b8/Hoffenheim-Stats
+GER-Bundesliga,2526,Koln,27,25.0,47.0,34,374,3060,34,47,33,80,44,3,3,64,3,1.38,0.97,2.35,1.29,2.26,/en/squads/bc357bf7/Koln-Stats
+GER-Bundesliga,2526,Bayer Leverkusen,28,26.3,59.2,34,374,3060,34,67,49,116,60,7,8,70,2,1.97,1.44,3.41,1.76,3.21,/en/squads/c7a9f859/Leverkusen-Stats
+GER-Bundesliga,2526,Mainz,30,28.6,44.0,34,374,3060,34,44,26,70,36,8,9,70,5,1.29,0.76,2.06,1.06,1.82,/en/squads/a224b06a/Mainz-05-Stats
+GER-Bundesliga,2526,RB Leipzig,29,25.0,54.0,34,374,3060,34,64,48,112,63,1,3,52,0,1.88,1.41,3.29,1.85,3.26,/en/squads/acbb6a5b/RB-Leipzig-Stats
+GER-Bundesliga,2526,Saint Pauli,24,27.5,44.4,34,374,3060,34,29,21,50,25,4,5,54,2,0.85,0.62,1.47,0.74,1.35,/en/squads/54864664/2025-2026/St-Pauli-Stats
+GER-Bundesliga,2526,Stuttgart,26,25.5,57.7,34,374,3060,34,70,56,126,65,5,7,63,2,2.06,1.65,3.71,1.91,3.56,/en/squads/598bc722/Stuttgart-Stats
+GER-Bundesliga,2526,Union Berlin,26,27.2,40.2,34,374,3060,34,44,29,73,41,3,5,71,3,1.29,0.85,2.15,1.21,2.06,/en/squads/7a41008f/Union-Berlin-Stats
+GER-Bundesliga,2526,Werder Bremen,28,25.1,51.2,34,374,3060,34,36,28,64,33,3,4,77,5,1.06,0.82,1.88,0.97,1.79,/en/squads/62add3bf/Werder-Bremen-Stats
+GER-Bundesliga,2526,Wolfsburg,30,25.4,45.3,34,374,3060,34,44,35,79,40,4,5,68,3,1.29,1.03,2.32,1.18,2.21,/en/squads/4eaa11d7/2025-2026/Wolfsburg-Stats
